@@ -1,7 +1,3 @@
-# DISCONTINUATION OF PROJECT #
-This project will no longer be maintained by Intel.
-Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
-Intel no longer accepts patches to this project.
 ## Introduction
 
 Intel(R) Platform Firmware Resilience (Intel(R) PFR) is an Intel FPGA-based solution, (Intel(R) MAX 10(R) FPGA), that helps protect the various platform firmware components. Intel is contributing this capability as an available option on our 3rd-Gen Intel® Xeon® Processor Platforms for those looking for an integrated solution that may not otherwise be available from their platform vendor of choice.
