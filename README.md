@@ -6,3 +6,4 @@ Intel(R) PFR monitors and filters malicious traffic on the system buses. It also
 
 ## Platforms
 * [Wilson City](http://github.com/intel/pfr-wilson-city)
+* Eagle Stream
